@@ -20,7 +20,7 @@ const connection = mysql.createConnection({
 //
 
 /*
-Define CRUD
+Define CRUd
 */
 // CRUD: Create
 router.post('/article', (req, res) => {
